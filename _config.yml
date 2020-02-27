@@ -60,33 +60,23 @@ plugins:
 author:
   name   : "HC Lee"
   avatar : "/assets/images/profile_image.jpeg"
-  #avatar : "/assets/images/bio-photo.jpg"
   bio    : "Inha University <br> Industrial Engineering"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/StitchDex/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/cheol_hwan_2/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/StitchDex/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/cheol_hwan_2/"
 
 defaults:
   # _posts
