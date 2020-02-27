@@ -61,7 +61,7 @@ author:
   name   : "HC Lee"
   avatar : "/assets/images/profile_image.jpeg"
   #avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Inha University <br> Industrial Engineering"
+  bio    : "Inha University. <br> Industrial Engineering"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
