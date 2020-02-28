@@ -88,8 +88,6 @@ defaults:
       share: true
       related: true
       author_profile: false
-      sidebar:
-        nav: "docs"
   # _pages
   - scope:
       path: "_pages"
