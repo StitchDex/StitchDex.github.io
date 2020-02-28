@@ -7,6 +7,7 @@ tags:
   - Post Formats
   - readability
   - standard
+  - update
 sidebar:
   nav: "docs"
 ---
