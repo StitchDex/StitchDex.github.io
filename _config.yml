@@ -87,7 +87,7 @@ defaults:
       comments: true
       share: true
       related: true
-      auther_profile: false
+      auther_profile: true
   # _pages
   - scope:
       path: "_pages"
