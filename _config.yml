@@ -88,6 +88,8 @@ defaults:
       share: true
       related: true
       author_profile: false
+      sidebar:
+        nav: "docs"
   # _pages
   - scope:
       path: "_pages"
@@ -95,13 +97,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _docs
-  - scope:
-      path: "_posts"
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
     
 category_archive:
   type: liquid
