@@ -7,9 +7,7 @@ tags:
   - Post Formats
   - readability
   - standard
-  - update
-sidebar:
-  nav: "docs"
+  - up
 ---
 
 This post has been updated and should show a modified date if used in a layout.
