@@ -11,7 +11,6 @@ categories:
 - MySQL은 아는데 Mybatis는 뭐냐 (What is ORM?)
 - AWS? No! 나는 Krane! (What is Ubuntu?)
 
-<span style="font-size:medium">두둥탁! 드디어 인턴 과제를 받았다. 과제는 다름아닌 웹 풀스택 개발!!!
-![잉 뭐라구요?](/assets/images/jjal/black_wtf.jpg)
+<span style="font-size:medium">두둥탁! 드디어 인턴 과제를 받았다. 과제는 다름아닌 웹 풀스택 개발!!!</span>
 
-</span>
+<p align="center"><img src="/assets/images/jjal/black_wtf.jpg" alt="읭 뭐라구요?"/></p>
