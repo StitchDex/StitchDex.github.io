@@ -18,7 +18,7 @@ categories:
 
 <span style="font-size:medium">하지만 인턴을 시작하면서 맥북과 사원증을 처음 받았을 때는 정말 기분이 좋았다. - 맨날 중국제 레노버 노트북만 써보다가 맥북을 처음 써본 소감이란... 이틀간 사내 쿠버네티스, 도커허브, 위키 등 개발 플랫폼 교육을 받았고 내가 속하게 될 셀로 올라가게 되었는데, 사실 조금 무서웠다. 자대배치 처음 받는 이등병의 기분으로 올라가 자리를 세팅하고 셀원들과 같이 커피를 먹는데 그렇게 낯설 수가 없었다. 이때까진 정말 희망에 차있었다. 인턴과제를 받기 전까지는...</span>
 
-## 2부에서 계속
+## [2부에서 계속](https://stitchdex.github.io/life/life-internship-2/)
 > 예고<br>
 
 <p align="center"><img src="/assets/images/jjal/black_wtf.jpg" alt="읭 뭐라구요?"/></p>
