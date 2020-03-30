@@ -26,11 +26,10 @@ categories:
 
 <span style="font-size:medium">스터디와 함께 프로젝트 기획도 진행했다. 우선 화면 목업(Mock-up)을 제작하고 기능명세서를 작성했다. 기능명세서는 만들 프로그램의 모든 기능들을 세세하게 작성한 문서이다. 기능명세서에는 추가적으로 기술 사항도 적었는데 왜냐하면 어차피 볼 사람이 개발자들밖에 없기에 상세한 기술을 같이 서술했다. 하지만 아직 자세한 기술들에 대한 확신이 없었던 때이기에 방황을 많이 했었다. 이걸 구현하기 위해 이걸 쓰는 게 맞는 것인가? 아니면 다른 것을 쓰는게 더 좋은 방법인가? 에 대한 확신이 없었던 것이다. 그래서 매주 회의에 들어갈 때마다 깨졌던거 같다. 이 때문인지 기획서도 잘 못 쓰고 ERD도 개판이고 회의 준비도 잘 못해서 말도 못하고 항상 쩔쩔맸었다. x발...</span>
 
-<center>
+<p align="center"><img src="/assets/images/post-intern/docs.png" style="width:260px; height=auto"/></p>
+<center> 
 
-|<img src="/assets/images/post-intern/docs.png" style="width:260px; height=auto"/>|
-|:--:|
-|*내가 만든 문서들*|
+*내가 만든 문서들* 
 
 </center>
 
